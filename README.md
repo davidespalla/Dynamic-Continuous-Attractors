@@ -1,6 +1,6 @@
 # Dynamic-Continuous-Attractors
 
-![alt text](https://github.com/davidespalla/Dynamic-Continuous-Attractors/epigrafe.png?raw=true)
+![alt text](imgs/epigrafe.png?raw=true)
 
 This folder contains code for the numerical simulation and analytical solution of continuous attractor neural network with a dynamic shift mechanism.
 
