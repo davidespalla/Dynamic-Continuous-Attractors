@@ -1,4 +1,4 @@
-# Dynamic-Continuous-Attractors
+# A continuous attractor network with multiple dynamic memories
 
 ![alt text](imgs/didascalia.png?raw=true)
 
